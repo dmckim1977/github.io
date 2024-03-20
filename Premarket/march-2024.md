@@ -19,7 +19,7 @@ We opened and immediately saw weakness off the open but couldn't get much follow
 
 I like to watch for a break of B period when its an inside bar. C broke B's high, the IBH, and closed the gap leaving a weak high at Monday's low `5210.25` which was the first level on our price map. Weak highs are very visual levels so we should expect those to be taken. At this point the MGI is indicating we should get more upside. 
 
-D period pulled back to the IBH and Open and found buyers ahead of C's halfback. We then put in our first set of singles in D period. We put in 3 more sets of singles in the day that all remain unfilled. We briefly paused at `5225` which was also on our price map before continuing higher. `5225` also served as our afternoon pulback and the low of the upper distribution. 
+D period pulled back to the IBH and Open and found buyers ahead of C's halfback. We then put in our first set of singles in D period. We put in 3 more sets of singles in the day that all remain unfilled. We briefly paused at `5225` which was also on our price map before continuing higher. `5225` also served as our afternoon pullback and the low of the upper distribution. 
 
 We eventually balanced below Monday's HOD and our Supply Zone `5240-46` for 5 periods before putting in an exploratory price spike and moving value up to this upper distribution. The price spike fell 10 ticks shy of all-time highs and ended the day closing inside the spike and above Monday's HOD. 
 
