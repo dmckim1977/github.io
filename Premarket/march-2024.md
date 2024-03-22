@@ -10,7 +10,7 @@
 
 # 2024-03-22
 
-text
+Continued weakness in the overnight session as we roll into Friday with four Fed speakers on the board. We are watching for signs of continuation back into balance.
 
 ## Previous Day Review
 
@@ -32,14 +32,14 @@ In periods H, I, J, and K, we witnessed an inventory correction and one-timefram
 
 ## Overnight Review (_updated at 0700 CT_)
 
-Text
+The overnight session is rotational with a break lower in the Euro session. Volume is very light suggesting inventory correction as opposed to heavy selling. 
 
 >**Session Stats**  
->Volume: 
->Range:  
->Rotational Factor: 
->Delta: 
->Positioning:   
+>Volume: 170k  
+>Range:  18 points  
+>Rotational Factor: 3  
+>Delta: +2000  
+>Positioning: 60% short   
 
 ## Mission Plan
 
