@@ -1,10 +1,12 @@
-# ES_F Daily Trading Plan <DATE>
 
-Text 
+
+# 2024-03-21
+
+text
 
 ## Previous Day Review
 
-Text
+text
 
 - Key Points  
 
@@ -14,37 +16,65 @@ Text
 >Rotational Factor: 
 >Delta: 
 
-## Overnight Review (_updated at 0900 CT_)
+## Overnight Review (_updated at 0700 CT_)
 
 Text
 
 >**Session Stats**  
->Volume:  
+>Volume: 
 >Range:  
->Rotational Factor:   
->Delta:  
->Positioning: 
+>Rotational Factor: 
+>Delta: 
+>Positioning:   
 
 ## Mission Plan
 
 Text
 
-#### Open above | Scenario 1
+#### References I am watching today (high to low)
 
-Text 
+`5000` 
 
-#### Open Below | Scenario 2
 
-Text 
+>**Notable Earnings**  
+>
 
->**Noteable Earnings**  
->No noteable earnings  
-
->**Important Economic Releases**  
->No noteable Economic Releases today
+>**Important Economic Releases** (_central time_)  
+>
 
 #### Other Markets
 
 
 # Notes from the session
 
+0823: The market appears too long. We have a poor high in Globex and the last 3 periods before the open are poor as well. 
+
+
+# Setups
+![3-21-2024 EOD](../images/3-21-2024.png)
+
+1. 
+
+# HTF Gex setups
+
+
+
+# AfterMarket Report - Thursday March 21 2024
+
+### Market Overview
+
+Text
+
+### Previous Day Review
+
+Text.
+
+### Analysis
+
+Text
+
+### Strategy Going Forward
+
+Text
+
+------------------------------------------------
